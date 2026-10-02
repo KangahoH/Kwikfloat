@@ -1,0 +1,6 @@
+{
+  "name": "KwikFloat - Mobile Money & Float Management System",
+  "description": "Centralized management system for Uganda MTN Mobile Money and Airtel Money agents, tracking cash and float wallets, transactions, ledger accounting, commissions, expenses, and daily reconciliation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
